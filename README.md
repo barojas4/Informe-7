@@ -33,7 +33,7 @@ Para entender la teoría de circuitos eléctricos desde lo más básico es indis
 
  ## 4. Video
  
- link del video: https://www.youtube.com/watch?v=S2la1igGjh8
+ link del video: 
  
  ## 5.Conlusión 
  

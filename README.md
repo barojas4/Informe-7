@@ -96,16 +96,64 @@ LT = 50.5 mH
 
 17.Determine la inductancia total de cada circuito mostrado en la figura 13-46.
 
+![image](https://user-images.githubusercontent.com/116810935/217354078-b8cc3ad1-8c65-4ef1-8c20-243a3b6cca77.png)
+
+
+SECCIÓN 13–4 Inductores en circuitos de cd
+
+19.Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
+
+
+![image](https://user-images.githubusercontent.com/116810935/217354156-a4b3a34d-58c2-4723-bf28-7c0bd8758e08.png)
+
+
+21.En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:
+
+
+![image](https://user-images.githubusercontent.com/116810935/217354228-bae0ff9b-eccb-4819-9211-3e8d58a3fa61.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217354271-89a2686c-f43d-486c-be20-bfb8bc312db8.png)
+
+23.Repita el problema 21 para los siguientes instantes:
+
+![image](https://user-images.githubusercontent.com/116810935/217354336-a050ae44-9d9a-429c-9d10-ab676cf28c70.png)
+
+25.En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+
+![image](https://user-images.githubusercontent.com/116810935/217354392-e42b1690-aec0-4ff5-be2f-57713df32a34.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217354425-1c13d541-54e3-4207-8a4c-a5bc6ff5bedc.png)
+
+27.Determine la constante de tiempo para el circuito de la figura 13-50.
+
+![image](https://user-images.githubusercontent.com/116810935/217354505-a3908f9e-e070-4158-9cb3-dbb6a1589ed1.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217354543-c10240fc-dd14-4264-977c-1592c74d0ea6.png)
+
+29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre.¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
+
+![image](https://user-images.githubusercontent.com/116810935/217354590-e1f756e4-d698-4923-b335-40c4d4e2fb99.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217354624-ae921322-7380-4018-bc01-b58ed16dd214.png)
+
+30. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una fre�cuencia de 400 Hz.
+
+
+![image](https://user-images.githubusercontent.com/116810935/217354814-467668b5-592a-4e22-8744-712004a4414e.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217354838-e31970af-3076-4b18-8b0d-7e96a7c7af62.png)
+
+¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?
+
+![image](https://user-images.githubusercontent.com/116810935/217354895-1c45dccf-8036-40cd-97ef-c8cde86f3b60.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217354951-0075dfc3-4f0a-463d-952f-740d55103c4b.png)
+
+CAPÍTULO 14
 
 
 
-
-
-
-
-
-
-
+¿Cuál es la inductancia mutua cuando k=0.75, L1=1 uH, y L2=4 uH?
 
 
 

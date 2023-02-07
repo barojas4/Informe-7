@@ -156,6 +156,159 @@ CAPÍTULO 14
 ¿Cuál es la inductancia mutua cuando k=0.75, L1=1 uH, y L2=4 uH?
 
 
+![image](https://user-images.githubusercontent.com/116810935/217355098-e8bca71d-5d71-4785-bb34-8f90e70aee49.png)
+
+3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100? Respondiendo la primera pregunta:
+
+![image](https://user-images.githubusercontent.com/116810935/217355157-cde977a8-4a9c-4e11-a550-5803fbfe4e10.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217355189-844a4e00-da8e-45ab-a508-053477f0d0ce.png)
+
+5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
+
+![image](https://user-images.githubusercontent.com/116810935/217355269-f1c67577-15a0-4e89-9a6b-acf8a9b7fec8.png)
+
+a) Se puede apreciar en el tranformador que las bobinas tienen la misma dirección, por lo tanto los voltajes primario y secundario están en la fase. La relación de vueltas es 10 por lo tanto el voltaje secundario es 10 veces mayor que el voltaje de entrada 100v.
+
+![image](https://user-images.githubusercontent.com/116810935/217355916-7604cd23-dca6-4697-8204-1e99207c1f61.png)
+
+b) Se puede apreciar en el tranformador que las bobinas estan enrolladas, por lo tanto los voltajes primario y secundario están desfasados 180 grados. La relación de vueltas es 2 por lo tanto el voltaje secundario es el doble que el voltaje de entrada 20v.
+
+![image](https://user-images.githubusercontent.com/116810935/217356025-82a4f519-badd-4e34-91ab-bb65018262de.png)
+
+c) Se puede apreciar en el tranformador que las bobinas estan enrolladas en dirección opuesta, por lo tanto los voltajes primario y secundario están desfasados 180 grados. La relación de vueltas es un quinto por lo tanto el voltaje secundario es un quinto del voltaje de entrada 20v.
+
+![image](https://user-images.githubusercontent.com/116810935/217356103-26b72c34-1f0c-41a7-9cdf-e750b65ebb91.png)
+
+SECCIÓN 14–3 Transformadores elevadores y reductores *
+
+7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+
+![image](https://user-images.githubusercontent.com/116810935/217356187-68bfeed4-8ff4-4ad7-9bcd-1b7327fa4d2c.png)
+
+9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+
+![image](https://user-images.githubusercontent.com/116810935/217356239-8577bdd6-8239-42ed-b662-4b9a35c6dee8.png)
+
+11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+
+![image](https://user-images.githubusercontent.com/116810935/217356362-65f27193-40a9-4ac1-9e5d-17866432ec28.png)
+
+13. Determine las lecturas de medidor no especificadas en la figura 14-44.
+
+![image](https://user-images.githubusercontent.com/116810935/217356457-34902060-32dc-4d23-9e36-34013f766201.png)
+
+a) 
+
+![image](https://user-images.githubusercontent.com/116810935/217356499-6c4acefa-6c91-4304-9f43-f47d5bf6362d.png)
+
+b) 
+
+![image](https://user-images.githubusercontent.com/116810935/217356525-e4c14b7a-9084-4688-a5c6-8da1dbf44fc3.png)
+
+SECCIÓN 14–4 Carga del devanado secundario *
+
+15. Determine las siguientes cantidades en la figura 14-46.
+
+![image](https://user-images.githubusercontent.com/116810935/217356579-06d7f8b6-4e11-492a-bf9a-736ee9528d62.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/116810935/217356593-30c1bd6a-691c-4436-bcb5-f85d07aeacdb.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/116810935/217356652-f77b3943-a3f2-44b3-8ab9-2d939ebe2c36.png)
+
+c) 
+
+![image](https://user-images.githubusercontent.com/116810935/217356683-cc1c23c6-138d-46b2-b87e-5bc369d799e0.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/116810935/217356706-ecd238d5-0a3c-48a1-9ea2-546fd7664491.png)
+
+17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Æ en el circuito primario?
+
+![image](https://user-images.githubusercontent.com/116810935/217356762-e4b92c20-8da9-4d2d-8530-5f147fc58741.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217356780-1e64f80f-4a0f-4249-8cfb-ab95b0e1d23d.png)
+
+19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Æ?
+
+![image](https://user-images.githubusercontent.com/116810935/217356829-fba67c4d-151a-449a-b130-7e7bcec2a115.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217356851-054081e0-1fc0-4435-9b26-d1086ed6eeb6.png)
+
+
+SECCIÓN 14–7 Características de un transformador no ideal *
+
+21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+![image](https://user-images.githubusercontent.com/116810935/217356899-d1abf6c8-8329-4690-a8a2-a07e453c7b94.png)
+
+23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+
+![image](https://user-images.githubusercontent.com/116810935/217356949-8b2b64dc-4cbc-4ae7-b3b6-77280c184f8d.png)
+
+25.¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
+
+![image](https://user-images.githubusercontent.com/116810935/217357007-911b6417-43e2-4895-afde-d9f2f5178c56.png)
+
+
+
+27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+
+![image](https://user-images.githubusercontent.com/116810935/217357087-82b1d5e2-b9e2-4e5f-bba5-8d52e72d3eeb.png)
+
+![image](https://user-images.githubusercontent.com/116810935/217357111-1fd4e9b3-076c-4f52-abe9-9736667a1c2a.png)
+
+29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+
+
+![image](https://user-images.githubusercontent.com/116810935/217357184-516e428e-1a8d-493c-92e6-ecdfa2b0a1dd.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/116810935/217357274-48f415a5-fe38-4dc8-b4ec-a7139f55460d.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/116810935/217357306-af9c8c30-f226-4477-870c-8a8b21ab07ac.png)
+
+31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/116810935/217357363-72b35d71-8b47-4108-ab1f-402a3944fc34.png)
+
+a) 
+
+![image](https://user-images.githubusercontent.com/116810935/217357403-2ca09fda-b25c-4982-bc62-9e3448085c7b.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/116810935/217357455-51e7dbc1-a6f9-4e71-a485-db911c4c0325.png)
+
+33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
+Se quema la fuente o el transformador a menos que se proteja el primario del fusible 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

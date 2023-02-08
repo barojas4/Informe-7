@@ -23,6 +23,17 @@ Determinar la solucion de problemas que implique la aplicacion de la ley de Ohm 
 
 Para entender la teoría de circuitos eléctricos desde lo más básico es indispensable que la persona conozca unidades de medida en el Sistema internacional de medida, por siguiente trabajamos con la ley de ohm que es corriente igual a voltaje sobre resistencia teniendo en cuenta las unidades de medida como corriente en Amperios voltaje en volts y resistencia en omh. En el segundo capitulo tenemos la relacion entre enrgia y potencia donde la energía es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se utiliza la energía.
 
+![1](https://user-images.githubusercontent.com/116810935/217666687-0e8b0ad3-d3e9-4c25-be57-4412921cf3c3.png)
+
+![2](https://user-images.githubusercontent.com/116810935/217666747-a4e1ce39-41b5-4649-bed8-0495c29ac1af.png)
+
+
+![3](https://user-images.githubusercontent.com/116810935/217666767-1f748f9d-fb08-4f85-992b-183326dab7d4.png)
+
+
+![4](https://user-images.githubusercontent.com/116810935/217666786-c482a102-799e-4b48-8628-2f86b5138962.png)
+
+![5](https://user-images.githubusercontent.com/116810935/217666816-3d112a28-b122-4ab0-97e5-347066d77035.png)
 
 
 ## 3. Explicacion y resolución de ejercicios

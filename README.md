@@ -12,16 +12,15 @@ MATERIA: Fundamentos de Circuitos Electricos
 
 * Objetivo General
 
-Analizar la teoria de la ley de  Ohm y la ley watt para poder resolver problemas de circuitos en serie o paralelos, tambien evidenciar nuevos conceptos como potencia y energia. 
-
+Analizar y reconocer los distintos tipos de inductores con conceptos básicos, utilizando fórmulas para verificar su comportamiento en tiempo, voltaje, resisitencia y corriente.
 
 * Objetivos especificos
 
-Determinar la solucion de problemas que implique la aplicacion de la ley de Ohm asi como la ley de watt en donde se tiene que tener definido bien los conceptos de resistecias, corriente, voltaje entre otros conceptos.
+Determinar la solucion de problemas que implique la aplicacion de conceptos 
 
 ## 2.Marco Teorico (Resumen)
 
-Para entender la teoría de circuitos eléctricos desde lo más básico es indispensable que la persona conozca unidades de medida en el Sistema internacional de medida, por siguiente trabajamos con la ley de ohm que es corriente igual a voltaje sobre resistencia teniendo en cuenta las unidades de medida como corriente en Amperios voltaje en volts y resistencia en omh. En el segundo capitulo tenemos la relacion entre enrgia y potencia donde la energía es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se utiliza la energía.
+Para entender la teoría de circuitos eléctricos desde lo más básico es indispensable que la persona conozca unidades de medida en el Sistema internacional de medida, por siguiente trabajamos con la ley de ohm que es corriente igual a voltaje sobre resistencia teniendo en cuenta las unidades de medida como corriente en Amperios voltaje en volts y resistencia en omh.
 
 ![1](https://user-images.githubusercontent.com/116810935/217666687-0e8b0ad3-d3e9-4c25-be57-4412921cf3c3.png)
 

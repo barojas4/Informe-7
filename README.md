@@ -20,7 +20,7 @@ Determinar la solucion de problemas que implique la aplicacion de conceptos
 
 ## 2.Marco Teorico (Resumen)
 
-Para entender la teoría de circuitos eléctricos desde lo más básico es indispensable que la persona conozca unidades de medida en el Sistema internacional de medida, por siguiente trabajamos con la ley de ohm que es corriente igual a voltaje sobre resistencia teniendo en cuenta las unidades de medida como corriente en Amperios voltaje en volts y resistencia en omh.
+
 
 ![1](https://user-images.githubusercontent.com/116810935/217666687-0e8b0ad3-d3e9-4c25-be57-4412921cf3c3.png)
 
